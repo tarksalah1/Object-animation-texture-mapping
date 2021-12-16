@@ -1,0 +1,19 @@
+#
+#
+#
+
+newmtl Tree_polySurface1 g1 g2 polySurface1 Mesh_Default - Lambert
+illum 1
+Ka 1.000000 0.000000 1.000000
+Kd 1.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 1.000000
+
+newmtl Tree_polySurface1 g1 polySurface1 Mesh_Trank_bark
+illum 2
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.000000 0.000000 0.000000
+Ns 16.000000
+map_Kd bark_0021.jpg
+
