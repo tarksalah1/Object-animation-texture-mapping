@@ -8,7 +8,7 @@
 |عبدالله محمد شاذلي|**1**|**52**|
 |عبدالخالق عبدالملك محمد|**1**|**47**|
 
-#### we continued our implementation of assignment 3 on implementation of task 2 as follow
+#### we continued our implementation of assignment 3 on implementation of assignment 2 as follow
 
 
 ##### our project is splitted into 3 scenes, every scene with one animation, different floor and can be changed through menu that pop up by right clicking on mouse :
