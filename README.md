@@ -1,4 +1,4 @@
-## *Assignment 3: Animation, Texture mapping and Loading objects*
+# *Assignment 3: Animation, Texture mapping and Loading objects*
 
 
 |Name|Section|B.N|
@@ -13,15 +13,20 @@
 
 ##### our project is splitted into 3 scenes, every scene with one animation, different floor and can be changed through menu that pop up by right clicking on mouse :
 
-- first scene is in snow with tree, 2 snowmen objects and running animation
+### - first scene is in snow with tree, 2 snowmen objects and running animation
+
  ![image](https://user-images.githubusercontent.com/61363974/146650437-03e8a59c-5eb9-4b02-9e39-e0f7e7a4af00.png)
 
 
-- second scene is in grass with tree, ball objects and animation shotting the ball
+
+### - second scene is in grass with tree, ball objects and animation shotting the ball
+
 ![image](https://user-images.githubusercontent.com/61363974/146650445-3d3cea3a-59ca-4512-b27a-df128cce546c.png)
 
 
-- third scene is in desert with rock object, and jumping animation (Jumping jacks)
+
+### - third scene is in desert with rock object, and jumping animation (Jumping jacks)
+
 ![image](https://user-images.githubusercontent.com/61363974/146650451-d7813940-5450-44e4-8513-6cbcb996f7fc.png)
 
 
